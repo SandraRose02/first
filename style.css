@@ -1,9 +1,13 @@
 *{
    
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
     background-image:url("./photo-1590212151175-e58edd96185b.avif");
     background-size: cover;
     color:aliceblue;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 #hd{
