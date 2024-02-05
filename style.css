@@ -10,6 +10,11 @@ body{
     color:aliceblue;
 }
 
+button{
+    background-image:url("./photo-1590212151175-e58edd96185b.avif");
+    color:aliceblue;
+}
+
 #hd{
     color:aliceblue;
     font-family: courier;
