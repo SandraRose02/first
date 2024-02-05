@@ -1,0 +1,27 @@
+*{
+   
+    background-image:url("./photo-1590212151175-e58edd96185b.avif");
+    background-size: cover;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#hd{
+    color:aliceblue;
+    font-family: courier;
+    font-size:80px;
+    text-align: center;
+}
+
+p{
+    
+    font-size:20px;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color:aliceblue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
